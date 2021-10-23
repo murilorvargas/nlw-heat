@@ -14,15 +14,17 @@ body {
 }
 
 body {
+  background: #121214 url(assets/background-desktop.svg) no-repeat center/cover;
+
   display: grid;
   place-items: center;
 }
 
 main {
-  background: url(assets/background.svg) no-repeat center/cover;
-  width: 100vw;
+  background: url(assets/background-mobile.svg);
+  width: 375px;
   min-height: 812px;
-  height: 100vh;
+  border-radius: 10px;
 }
 
 .container {
