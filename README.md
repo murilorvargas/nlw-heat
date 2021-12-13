@@ -1,11 +1,11 @@
 <h1 align="center">
-  Crachá Virtual DoWhile
+  DoWhile Virtual Badge
 </h1>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
 </p>
 
 <p align="center">
@@ -19,21 +19,21 @@
 <br>
 
 <p align="center">
-  <img alt="Chachá NLW Heat" src="assets/github/nlw-heat.png" width="100%">
+  <img alt="DoWhile Virtual Badge" src="assets/github/nlw-heat.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+The following tools were used in this project:
 
 - HTML
 - CSS
 - JavaScript
 
-## 💻 Projeto
+## 💻 Project
 
-O Crachá virtual DoWhile é uma aplicação estatica com o objetivo de mostrar as informações do usuário trazidas do GitHub API e inseri-lás em um layout com a cara do evento DoWhile 2021
+DoWhile Virtual Badge is a static application with the objective of showing the user information brought from the GitHub API and inserting it in a layout with the face of the DoWhile 2021 event.
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
